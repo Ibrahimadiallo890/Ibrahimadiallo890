@@ -16,7 +16,7 @@ I am a passionate and versatile software developer with strong foundations in bo
 
 ## 🔧 Tech Stack
 
-- **Languages:** JavaScript, Java, Python, PHP, Laravel SQL, HTML5, CSS3  
+- **Languages:** JavaScript, Java, Python, PHP, Laravel, SQL, HTML5, CSS3  
 - **Frameworks & Libraries:** Bootstrap, jQuery  
 - **CMS & Tools:** WordPress, IONOS, Git, GitHub  
 - **Databases:** MySQL  
